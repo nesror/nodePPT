@@ -38,13 +38,13 @@ apply plugin: 'com.github.dcendents.android-maven'
 version = "0.0.3"
 ...
 ````
-![](https://github.com/nesror/nodePPT/blob/master/img/img1.png?raw=true)
+* ![](https://github.com/nesror/nodePPT/blob/master/img/img1.png?raw=true)
 
 [slide]
 
 ## 配置源码和javaDoc(可选)
 ----
-![](https://github.com/nesror/nodePPT/blob/master/img/img2.png?raw=true)
+* ![](https://github.com/nesror/nodePPT/blob/master/img/img2.png?raw=true)
 
 [slide]
 ## 生成lib
@@ -65,7 +65,7 @@ version = "0.0.3"
 ## 配置你的bintray账号信息
 ----
 * 在你的项目的根目录上的local.properties文件里（一般这文件需gitignore，防止泄露账户信息）配置你的bintray账号信息
-![](https://github.com/nesror/nodePPT/blob/master/img/img3.png?raw=true)
+* ![](https://github.com/nesror/nodePPT/blob/master/img/img3.png?raw=true)
 
 [slide]
 ## 配置上传信息
@@ -77,7 +77,7 @@ apply plugin: 'com.jfrog.bintray'
 version = "1.6.4"
 ...
 ````
-![](https://github.com/nesror/nodePPT/blob/master/img/img4.png?raw=true)
+* ![](https://github.com/nesror/nodePPT/blob/master/img/img4.png?raw=true)
 
 [slide]
 ## 上传，申请添加到JCenter
@@ -93,9 +93,9 @@ version = "1.6.4"
 # 资源前缀
 ----
 * 作用强制在所有资源文件上加上前缀，避免不同aar之间的资源名称冲突，强烈使用！！
-![](https://github.com/nesror/nodePPT/blob/master/img/img5.png?raw=true)
-![](https://github.com/nesror/nodePPT/blob/master/img/img6.png?raw=true)
-![](https://github.com/nesror/nodePPT/blob/master/img/img7.png?raw=true)
+* ![](https://github.com/nesror/nodePPT/blob/master/img/img5.png?raw=true)
+* ![](https://github.com/nesror/nodePPT/blob/master/img/img6.png?raw=true)
+* ![](https://github.com/nesror/nodePPT/blob/master/img/img7.png?raw=true)
 
 [slide]
 # 可能遇到的问题
@@ -120,17 +120,17 @@ http://blog.yzapp.cn/%E4%BD%BF%E7%94%A8Gradle%E5%8F%91%E5%B8%83%E9%A1%B9%E7%9B%A
 [slide]
 ## 配置jitPack
 ----
-![](https://github.com/nesror/nodePPT/blob/master/img/img8.png?raw=true)
-![](https://github.com/nesror/nodePPT/blob/master/img/img9.png?raw=true)
+* ![](https://github.com/nesror/nodePPT/blob/master/img/img8.png?raw=true)
+* ![](https://github.com/nesror/nodePPT/blob/master/img/img9.png?raw=true)
 
 [slide]
 ## 上传到github（可选打release版本）
 ----
-![](https://github.com/nesror/nodePPT/blob/master/img/img10.png?raw=true)
+* ![](https://github.com/nesror/nodePPT/blob/master/img/img10.png?raw=true)
 
 [slide]
 ## 使用
 ----
 * https://jitpack.io/#你的gitHub地址
-![](https://github.com/nesror/nodePPT/blob/master/img/img11.png?raw=true)
-![](https://github.com/nesror/nodePPT/blob/master/img/img12.png?raw=true)
+* ![](https://github.com/nesror/nodePPT/blob/master/img/img11.png?raw=true)
+* ![](https://github.com/nesror/nodePPT/blob/master/img/img12.png?raw=true)
