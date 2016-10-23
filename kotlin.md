@@ -18,12 +18,14 @@ usemathjax: yes
 * Kotlin
 
 [slide]
-# 类,基本语法，与Java对比
+# 类,基本语法,与Java对比
 ----
 * Kotlin
 * ![](https://github.com/nesror/nodePPT/blob/master/img/kotlin1.jpg?raw=true)
 * Java
 * ![](https://github.com/nesror/nodePPT/blob/master/img/kotlin2.jpg?raw=true)
+* 其他基本用法（list等）详见：
+* <https://nesror.gitbooks.io/kotlin/content/>
 
 [slide]
 # 扩展函数
