@@ -9,6 +9,9 @@ usemathjax: yes
 [slide]
 # Kotlin
 ## 哈哈哈哈哈
+我曾经尝试用 Scala 写了个 Android 的 HelloWorld，一切都配置好以后，仅仅引入了 Scala 常见的几个库，加上 support-v4 以及 appcompat 这样常见的库，结果还是报错了。是的，65K。。。而且用 Scala 开发 Android 的话，基于 gradle 的构建会让整个 app 的 build 过程异常漫长，有时候你会觉得自己悟出了广义相对论的奥义，哦不，你一定是晕了，时间并没有变慢。
+
+相比之下，Kotlin 的标准库只有 7000 个方法，比 support-v4 还要小，这正反映了 Kotlin 的设计理念：100% interoperable with Java。其实我们之前就提到，Java 有的 Kotlin 就直接拿来用，而 Scala 的标准库要有 5W 多个方法，想想就还是想想算了
 
 [slide]
 # 使用
